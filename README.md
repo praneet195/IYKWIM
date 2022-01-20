@@ -1,5 +1,6 @@
 # If You Know What I've Seen
 ## An Audio Landmark Detection based approach for Video Fingerprinting
+### Manu Ramesh and Praneet Singh
 
 This repository contains the code of our audio landmark detection based video fingerprinting technique that is simple yet powerful
 </br>
